@@ -2,7 +2,7 @@
 The epd of this test suite is in the docs/2020 folder. Topic is [discussed in talkchess](http://talkchess.com/forum3/viewtopic.php?f=2&t=72902).
 
 ### Setup
-In case you need to use the script hard.py and ranking.py to get the ranking of hard positions and the ranking of engines that solves more positions in case the main data `hard_talkchess_2020_table.csv` will be updated, install the following libraries.
+In case you need to use the script hard.py, ranking.py and top_hard.py to get the ranking of hard positions, ranking of engines that solves more positions in case the main data `hard_talkchess_2020_table.csv` will be updated, or extract the top 10 hardest epd then install the following libraries.
 
 ##### Method 1
 * pip install pandas
@@ -17,6 +17,11 @@ In case you need to use the script hard.py and ranking.py to get the ranking of 
 
 * To get ranking of engines  
 `python ranking.py`
+
+* To get the top 10 hardest epd  
+`python top_hard.py`  
+Modify the code to get the top 50  
+`num_top = 50`
 
 ### A. Engine Ranking
 
