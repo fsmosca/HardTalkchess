@@ -1,5 +1,5 @@
 # Hard Talkchess
-The epd of this test suite is in the docs/2020 folder.
+The epd of this test suite is in the docs/2020 folder. Topic is [discussed in talkchess](http://talkchess.com/forum3/viewtopic.php?f=2&t=72902).
 
 ### A. Engine Ranking
 
