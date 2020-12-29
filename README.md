@@ -1,6 +1,16 @@
 # Hard Talkchess
 The epd of this test suite is in the docs/2020 folder. Topic is [discussed in talkchess](http://talkchess.com/forum3/viewtopic.php?f=2&t=72902).
 
+### Setup
+In case you need to use the script hard.py to get the ranking of hard position in case the main data `hard_talkchess_2020_table.csv` is updated, install the following libraries.
+
+##### Method 1
+* pip install pandas
+* pip install tabulate
+
+##### Method 2
+* pip install -r requirements.txt
+
 ### A. Engine Ranking
 
 ```
