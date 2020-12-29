@@ -59,7 +59,7 @@ Eman_5.40_fad_12: Eman 5.40, FAD=12
 Lc0 v0.26.3 s1: Lc0 v0.26.3 cudnn-fp16, 66680, GTX 1650 super, i7-2600K, 2 minutes/pos
 ```
 
-### B. Hard Ranking
+### B. Hard Positions Ranking
 ```
 +-----+-------------------+---------------------+---------------+
 |     | Solution          |   NumEngSolvedCount |   MeanTimeSec |
@@ -280,7 +280,7 @@ Lc0 v0.26.3 s1: Lc0 v0.26.3 cudnn-fp16, 66680, GTX 1650 super, i7-2600K, 2 minut
 +-----+-------------------+---------------------+---------------+
 ```
 
-### C. Easy Ranking
+### C. Easy Positions Ranking
 ```
 +-----+-------------------+---------------------+---------------+
 |     | Solution          |   NumEngSolvedCount |   MeanTimeSec |
