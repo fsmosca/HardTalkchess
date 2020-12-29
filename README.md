@@ -1,7 +1,7 @@
 # Hard Talkchess
 The epd of this test suite is in the docs/2020 folder.
 
-### Engine Ranking
+### A. Engine Ranking
 
 ```
 +----+----------------------+------------+---------------+-------------+------------------------------+----------------+-----------+
@@ -59,7 +59,7 @@ Eman_5.40_fad_12: Eman 5.40, FAD=12
 Lc0 v0.26.3 s1: Lc0 v0.26.3 cudnn-fp16, 66680, GTX 1650 super, i7-2600K, 2 minutes/pos
 ```
 
-### Hard Ranking
+### B. Hard Ranking
 ```
 +-----+-------------------+---------------------+---------------+
 |     | Solution          |   NumEngSolvedCount |   MeanTimeSec |
@@ -280,7 +280,7 @@ Lc0 v0.26.3 s1: Lc0 v0.26.3 cudnn-fp16, 66680, GTX 1650 super, i7-2600K, 2 minut
 +-----+-------------------+---------------------+---------------+
 ```
 
-### Easy Ranking
+### C. Easy Ranking
 ```
 +-----+-------------------+---------------------+---------------+
 |     | Solution          |   NumEngSolvedCount |   MeanTimeSec |
@@ -500,3 +500,7 @@ Lc0 v0.26.3 s1: Lc0 v0.26.3 cudnn-fp16, 66680, GTX 1650 super, i7-2600K, 2 minut
 | 212 | 23) Nf3-h4        |                   0 |           nan |
 +-----+-------------------+---------------------+---------------+
 ```
+
+### D. Credits
+* Vinvin from [talkchess](http://talkchess.com/forum3/index.php)
+
