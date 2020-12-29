@@ -1,4 +1,4 @@
-name,numsolve,meantimesec,pospersec,cpu,gpu,threads
+name,numsolve,meantimesec,pospermin,cpu,gpu,threads
 Bluefish-FD-XI-DC,191,25,5,AMD Ryzen Threadripper 3970X,na,2
 Bluefish-FD-XI-TD,181,153,30,i7-4930K,na,1
 Eman_5.40_fad_12,167,193,30,i7-4930K,na,1
