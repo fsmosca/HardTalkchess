@@ -5,7 +5,7 @@ The epd of this test suite is in the docs/2020 folder.
 
 ```
 +----+----------------------+------------+---------------+-------------+------------------------------+----------------+-----------+
-|    | name                 |   numsolve |   meantimesec |   pospersec | cpu                          | gpu            |   threads |
+|    | name                 |   numsolve |   meantimesec |   pospermin | cpu                          | gpu            |   threads |
 |----+----------------------+------------+---------------+-------------+------------------------------+----------------+-----------|
 |  0 | Bluefish-FD-XI-DC    |        191 |            25 |           5 | AMD Ryzen Threadripper 3970X | na             |         2 |
 |  1 | Bluefish-FD-XI-TD    |        181 |           153 |          30 | i7-4930K                     | na             |         1 |
