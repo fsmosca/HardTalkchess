@@ -1,4 +1,5 @@
 # Hard Talkchess
+The epd of this test suite is in the docs/2020 folder.
 
 ### Engine Ranking
 
