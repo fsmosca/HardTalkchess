@@ -1,0 +1,2 @@
+Stockfish_2020-07-19,Bluefish-FD-XI-DC,Bluefish-FD-XI-TD,Houdidi_6.03_tac_1,Houdidi_6.03_tac_def,Eman_5.40_fad_12,Lc0 v0.26.3 s1
+Stockfish.sse42.halfkp_256x2-32-32.Profile-nnue.2020-07-19,Bluefish-FD-XI-T=2;D=N;DC 3970X 5 minutes,"Bluefish-FD-XI-(Tact=2,defens=no)",Houdidit603-tact=1,Houdidit603(default),"Eman 5.40, FAD=12","Lc0 v0.26.3 cudnn-fp16, 66680, GTX 1650 super, i7-2600K, 2 minutes/pos"
