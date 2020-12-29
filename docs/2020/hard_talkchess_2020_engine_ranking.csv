@@ -1,0 +1,38 @@
+name,numsolve,meantimesec,pospersec,cpu,gpu,threads
+Bluefish-FD-XI-DC,191,25,5,AMD Ryzen Threadripper 3970X,na,2
+Bluefish-FD-XI-TD,181,153,30,i7-4930K,na,1
+Eman_5.40_fad_12,167,193,30,i7-4930K,na,1
+SugaR.AI.ICCF.1.00,166,113,30,i7-4930K,na,1
+ShashChess15.1,166,170,30,i7-4930K,na,1
+Bluefish-12-W,162,187,30,i7-4930K,na,1
+Crystal-2020-06-29,159,199,30,i7-4930K,na,1
+Bluefish-XI,159,222,30,i7-4930K,na,1
+CorChess v6,156,327,30,i7-4930K,na,1
+Houdidi_6.03_tac_1,155,196,30,i7-4930K,na,1
+Stockfish_2020-07-19,155,239,30,i7-4930K,na,1
+ ShashChess 12.1,154,248,30,i7-4930K,na,1
+Stockfish_20121407,153,229,30,i7-4930K,na,1
+Stockfish_20062710,153,331,30,i7-4930K,na,1
+Eman 6.61,153,258,30,i7-4930K,na,1
+SugaR.AI.1.00,149,280,30,i7-4930K,na,1
+Stockfish 11,141,366,30,i7-4930K,na,1
+Honey-XI,139,290,30,i7-4930K,na,1
+Stockfish 10,137,450,30,i7-4930K,na,1
+Black-Diamond-XI,136,267,30,i7-4930K,na,1
+Black-Diamond-XR7,136,231,30,i7-4930K,na,1
+Crystal 2020-05-02,136,187,30,i7-4930K,na,1
+Crystal 1.1,135,270,30,i7-4930K,na,1
+Black-Diamond-XI-r2,135,158,30,i7-4930K,na,1
+McCain-v2,130,389,30,i7-4930K,na,1
+Stockfish 9,130,473,30,i7-4930K,na,1
+Houdidi_6.03_tac_def,125,349,30,i7-4930K,na,1
+Lc0 v0.26.3 s1,123,10,2,i7-2600K,GTX 1650 super,2
+Sting-SF-16,122,234,30,i7-4930K,na,1
+Sting-SF-20,119,240,30,i7-4930K,na,1
+Ethereal 12.25,98,396,30,i7-4930K,na,1
+Houdini 1.5 x64,97,283,30,i7-4930K,na,1
+Critter 1.6a 64bit,96,240,30,i7-4930K,na,1
+Stockfish 8,94,507,30,i7-4930K,na,1
+Xiphos 0.6,81,330,30,i7-4930K,na,1
+Ethereal 11.75,77,613,30,i7-4930K,na,1
+Stockfish 7,76,487,30,i7-4930K,na,1
