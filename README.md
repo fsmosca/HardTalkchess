@@ -24,8 +24,8 @@ For windows if there is error on numpy 1.19.4, use the older numpy.
 
 * To get the top 10 hardest epd  
 `python top_hard.py`  
-Modify the code to get the top 50  
-`num_top = 50`
+* To get the top 50 hardest epd  
+`python top_hard.py 50`
 
 ### A. Engine Ranking
 
