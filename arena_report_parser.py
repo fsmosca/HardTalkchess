@@ -85,7 +85,7 @@ def main(argv):
     outfn = 'new_hard_talkchess_2020_table.csv'
 
     # The file where new data will be added.
-    existingfn = 'hard_talkchess_2020_table.csv'
+    existingfn = './docs/2020/hard_talkchess_2020_table.csv'
 
     # Convert the new result from arena report file, into a list.
     infn = argv[0]
