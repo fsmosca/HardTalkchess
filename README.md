@@ -27,6 +27,10 @@ For windows if there is error on numpy 1.19.4, use the older numpy.
 * To get the top 50 hardest epd  
 `python top_hard.py 50`
 
+* To update the existing result ind hard_talkchess_2020_table.csv  
+`python arena_report_parser.py your_arena_result.rep`  
+and new_hard_talkchess_2020_table.csv will be created containing the recent result. Rename and copy this file and replace the old file in docs/2020.  
+
 ### A. Engine Ranking
 
 ```
