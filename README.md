@@ -11,6 +11,10 @@ In case you need to use the script hard.py, ranking.py and top_hard.py to get th
 ##### Method 2
 * pip install -r requirements.txt
 
+For windows if there is error on numpy 1.19.4, use the older numpy.
+* pip uninstall numpy
+* pip install numpy==1.19.3
+
 ### Command line
 * To get hard positions ranking  
 `python hard.py` 
