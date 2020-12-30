@@ -29,6 +29,8 @@ b) Intall below libraries individually
 """
 
 
+import sys
+
 import pandas as pd
 
 
@@ -45,9 +47,10 @@ def get_epd(epdfn, pos_num):
     return None
 
 
-def main():
-    # Change this to 50 to get the hardest 50 positions
+def main(argv):
     num_top = 10
+    if len(argv) > 0:
+        num_top = int(argv[0])
 
     epdfn = './docs/2020/hard_talkchess_2020.epd'
     outfn = f'top{num_top}_hard_positions.epd'
@@ -77,4 +80,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main(sys.argv[1:])
